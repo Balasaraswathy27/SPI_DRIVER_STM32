@@ -12,7 +12,7 @@ The driver provides a configurable SPI interface for communicating with SPI slav
 - Master Mode
 - Full Duplex communication
 - Configurable Clock Prescaler
-- Configurable Data Size (4–16 bits)
+- 8 bit Datasize
 - Configurable CPOL & CPHA
 - MSB / LSB First
 - Software Slave Management (SSM)
