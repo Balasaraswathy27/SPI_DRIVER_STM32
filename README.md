@@ -175,6 +175,6 @@ Each character is rendered from an 8×8 bitmap and transmitted over SPI using th
 
 ---
 
-# License
+## License
 
-MIT License
+This project is shared for learning and demonstration purposes.
