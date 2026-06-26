@@ -28,17 +28,6 @@ The driver provides a configurable SPI interface for communicating with SPI slav
 
 ---
 
-# Driver Structure
-
-```
-Inc/
-    spi.h
-
-Src/
-    spi.c
-```
-
----
 
 # Configuration
 
